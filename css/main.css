@@ -5,9 +5,18 @@ body {
 }
 
 h1 {
-    font-size: 80px;
+    font-size: 80 px;
     font-family: Cursive;
     color: black;
-    padding: 20 px
+    padding: 20 px;
     border: 2px solid black;
 }
+
+p {
+    font-size: 60 px;
+    font-family: Cursive;
+    color: black;
+    padding: 20 px;
+    border: 2px solid black;
+}
+        
