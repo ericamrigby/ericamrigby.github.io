@@ -1,13 +1,13 @@
 body {
-    margin: 60px auto;
+    margin: 40px auto;
     width: 70%;
     background-color: #F0E68C;
 }
 
 h1 {
     font-size: 20px;
-    font-family: Helvetica;
-    color: blue;
+    font-family: Cursive;
+    color: black;
     padding: 20 px
     border: 2px solid black;
 }
