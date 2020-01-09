@@ -23,3 +23,11 @@ ul {
     color: black;
     padding: 20 px;
 }
+
+img {
+    position: center;
+}
+
+iframe {
+    position: center;
+}
